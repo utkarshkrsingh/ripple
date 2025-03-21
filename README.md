@@ -25,8 +25,6 @@ cd ripple
 go mod tidy
 go mod download
 ```
-<strong>Note:</strong> You can even use `Makefile` for building the binary.
-
 
 3. Finally compile the project to get a binary:
 ```bash
