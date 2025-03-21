@@ -2,7 +2,7 @@
     <img src="./.assets/ripple-logo.png">
     <p align=center>A build automation tool written in <a href="https://go.dev/">Go</a></p>
     <p align=center>
-    <a href="./LICENSE.md"><img src="https://img.shields.io/github/license/utkarshkrsingh/ripple?style=flat-square&logo=appveyor"></a>
+    <a href="./LICENSE"><img src="https://img.shields.io/github/license/utkarshkrsingh/ripple?style=flat-square&logo=appveyor"></a>
     <img src="https://img.shields.io/badge/go-1.23.5-green?style=flat-square&logo=appveyor">
     <img src="https://img.shields.io/github/issues/utkarshkrsingh/ripple?style=flat-square&logo=appveyor">
     <img src="https://img.shields.io/github/forks/utkarshkrsingh/ripple?style=flat-square&logo=appveyor">
